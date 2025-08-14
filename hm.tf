@@ -1,1 +1,2 @@
 hi
+tags: [example, test]
